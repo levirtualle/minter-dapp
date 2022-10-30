@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; // Replace with your own contract address
+const contractAddress = "0x1F6F083C922B30CA2dF640d915A4df75c8829bAf"; // Replace with your own contract address
 const chain = 'goerli'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to Unknown Federation NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Unknown Federation NFT Project is a NFT collection of cadets and officers that is inspired by famous sci-fi tv series like Star Trek and The Orville. The uniform design also contains some elements from Captain America and Captain Marvel costume. Have you ever wonder how it would look like if we randomly mix the facial features, physicals build and skin tones of Oscar best actors and actresses and have them wearing a starship uniform? well, this is what Unknown Federation NFT Collection is all about. To create the best looking starship crew the world have ever seen, and I bet the production cost of this tv series will be expensive too :D I wonder how the starships would look like ;)';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
