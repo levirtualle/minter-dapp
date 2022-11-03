@@ -8,12 +8,12 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Unknown Federation";
-const description = "A collections of cadets, officers and admirals of the Unknown Federation (abbvreviated as UF), a multi-national union of individuals who explores the vast body of space in search of new life and new civilisations. The Unknown Federation operates semi-autonomously under a united government, founded on the principles of liberty, equality, peace, justice, and progress, with the purpose of furthering the universal rights of all sentient life. Their main goals is to acquire knowledge and resources to facilitate peaceful cooperation, scientific development, space exploration, and defense."
+const description = "A collections of cadets, officers and admirals of the Unknown Federation (abbvreviated as UF), a multi-national union of individuals who explores the vast body of space in search of new life and new civilisations. The Unknown Federation operates semi-autonomously under a united government, founded on the principles of liberty, equality, peace, justice, and progress, with the purpose of furthering the universal rights of all sentient life. Their main goals is to acquire knowledge and resources to facilitate peaceful cooperation, scientific development, space exploration, and defense";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 20,
+    growEditionSizeTo: 100,
     layersOrder: [
       { name: "Background" },
       { name: "Aanandi" },
@@ -29,8 +29,8 @@ const layerConfigurations = [
       { name: "Hijab 2" },
     ],
   },
-	{
-    growEditionSizeTo: 40,
+  {
+    growEditionSizeTo: 180,
     layersOrder: [
       { name: "Background" },
       { name: "Aashvi" },
@@ -47,7 +47,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 60,
+    growEditionSizeTo: 200,
     layersOrder: [
       { name: "Background" },
       { name: "Ailani" },
@@ -64,7 +64,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 80,
+    growEditionSizeTo: 240,
     layersOrder: [
       { name: "Background" },
       { name: "Farangis" },
@@ -81,7 +81,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 100,
+    growEditionSizeTo: 360,
     layersOrder: [
       { name: "Background" },
       { name: "Ajith" },
@@ -98,7 +98,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 120,
+    growEditionSizeTo: 400,
     layersOrder: [
       { name: "Background" },
       { name: "Alana" },
@@ -115,7 +115,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 140,
+    growEditionSizeTo: 520,
     layersOrder: [
       { name: "Background" },
       { name: "Alec" },
@@ -132,7 +132,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 160,
+    growEditionSizeTo: 640,
     layersOrder: [
       { name: "Background" },
       { name: "Alemayehu" },
@@ -149,7 +149,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 180,
+    growEditionSizeTo: 720,
     layersOrder: [
       { name: "Background" },
       { name: "Aleynah" },
@@ -166,7 +166,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 200,
+    growEditionSizeTo: 800,
     layersOrder: [
       { name: "Background" },
       { name: "Alice" },
@@ -183,7 +183,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 220,
+    growEditionSizeTo: 840,
     layersOrder: [
       { name: "Background" },
       { name: "Allina" },
@@ -200,7 +200,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 240,
+    growEditionSizeTo: 920,
     layersOrder: [
       { name: "Background" },
       { name: "Azadeh" },
@@ -217,7 +217,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 260,
+    growEditionSizeTo: 1260,
     layersOrder: [
        { name: "Background" },
       { name: "Baldan" },
@@ -234,7 +234,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 280,
+    growEditionSizeTo: 1340,
     layersOrder: [
        { name: "Background" },
       { name: "Becky" },
@@ -251,7 +251,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 300,
+    growEditionSizeTo: 1420,
     layersOrder: [
       { name: "Background" },
       { name: "Behati" },
@@ -268,7 +268,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 320,
+    growEditionSizeTo: 1540,
     layersOrder: [
       { name: "Background" },
       { name: "Bongani" },
@@ -285,7 +285,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 340,
+    growEditionSizeTo: 1580,
     layersOrder: [
       { name: "Background" },
       { name: "Chao Xing" },
@@ -302,7 +302,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 360,
+    growEditionSizeTo: 1700,
     layersOrder: [
       { name: "Background" },
       { name: "Chathura" },
@@ -319,9 +319,9 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 380,
+    growEditionSizeTo: 2040,
     layersOrder: [
-      { name: "Background" },
+       { name: "Background" },
       { name: "Chinasa" },
       { name: "Facial Scar 6" },        
       { name: "Uniform 11" },
@@ -336,7 +336,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 400,
+    growEditionSizeTo: 2160,
     layersOrder: [
       { name: "Background" },
       { name: "Damian" },
@@ -353,7 +353,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 420,
+    growEditionSizeTo: 2500,
     layersOrder: [
       { name: "Background" },
       { name: "Taher" },
@@ -370,7 +370,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 440,
+    growEditionSizeTo: 2540,
     layersOrder: [
       { name: "Background" },
       { name: "Ebele" },
@@ -387,7 +387,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 460,
+    growEditionSizeTo: 2580,
     layersOrder: [
       { name: "Background" },
       { name: "Ehuang" },
@@ -404,7 +404,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 480,
+    growEditionSizeTo: 2660,
     layersOrder: [
       { name: "Background" },
       { name: "Emily" },
@@ -421,7 +421,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 500,
+    growEditionSizeTo: 2700,
     layersOrder: [
       { name: "Background" },
       { name: "Fayola" },
@@ -438,7 +438,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 520,
+    growEditionSizeTo: 2780,
     layersOrder: [
       { name: "Background" },
       { name: "Fereshteh" },
@@ -455,7 +455,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 540,
+    growEditionSizeTo: 3020,
     layersOrder: [
       { name: "Background" },
       { name: "Gabby" },
@@ -472,7 +472,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 560,
+    growEditionSizeTo: 3060,
     layersOrder: [
       { name: "Background" },
       { name: "Gala" },
@@ -489,7 +489,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 580,
+    growEditionSizeTo: 3180,
     layersOrder: [
       { name: "Background" },
       { name: "Gunnar" },
@@ -506,7 +506,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 600,
+    growEditionSizeTo: 3300,
     layersOrder: [
       { name: "Background" },
       { name: "Hakim" },
@@ -523,7 +523,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 620,
+    growEditionSizeTo: 3380,
     layersOrder: [
       { name: "Background" },
       { name: "Hana" },
@@ -540,7 +540,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 640,
+    growEditionSizeTo: 3500,
     layersOrder: [
       { name: "Background" },
       { name: "Hiroshi" },
@@ -557,7 +557,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 660,
+    growEditionSizeTo: 3540,
     layersOrder: [
       { name: "Background" },
       { name: "Ife" },
@@ -574,7 +574,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 680,
+    growEditionSizeTo: 3660,
     layersOrder: [
        { name: "Background" },
       { name: "Firouz" },
@@ -591,7 +591,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 700,
+    growEditionSizeTo: 3780,
     layersOrder: [
       { name: "Background" },
       { name: "Imamu" },
@@ -608,7 +608,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 720,
+    growEditionSizeTo: 3900,
     layersOrder: [
       { name: "Background" },
       { name: "Inoke" },
@@ -625,7 +625,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 740,
+    growEditionSizeTo: 3920,
     layersOrder: [
       { name: "Background" },
       { name: "Iona" },
@@ -642,7 +642,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 760,
+    growEditionSizeTo: 4040,
     layersOrder: [
       { name: "Background" },
       { name: "Ghasem" },
@@ -659,7 +659,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 780,
+    growEditionSizeTo: 4160,
     layersOrder: [
       { name: "Background" },
       { name: "Jabroot" },
@@ -676,7 +676,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 800,
+    growEditionSizeTo: 4200,
     layersOrder: [
       { name: "Background" },
       { name: "Jacquelin" },
@@ -693,7 +693,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 820,
+    growEditionSizeTo: 4240,
     layersOrder: [
       { name: "Background" },
       { name: "Jane" },
@@ -710,7 +710,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 840,
+    growEditionSizeTo: 4360,
     layersOrder: [
       { name: "Background" },
       { name: "Jason" },
@@ -727,7 +727,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 860,
+    growEditionSizeTo: 4440,
     layersOrder: [
       { name: "Background" },
       { name: "Josephine" },
@@ -744,7 +744,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 880,
+    growEditionSizeTo: 4460,
     layersOrder: [
       { name: "Background" },
       { name: "Kamali" },
@@ -761,7 +761,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 900,
+    growEditionSizeTo: 4800,
     layersOrder: [
       { name: "Background" },
       { name: "Kanoa" },
@@ -778,7 +778,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 920,
+    growEditionSizeTo: 4840,
     layersOrder: [
       { name: "Background" },
       { name: "Kapena" },
@@ -795,7 +795,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 940,
+    growEditionSizeTo: 4900,
     layersOrder: [
       { name: "Background" },
       { name: "Kasigo" },
@@ -812,7 +812,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 960,
+    growEditionSizeTo: 4940,
     layersOrder: [
       { name: "Background" },
       { name: "Kealii" },
@@ -829,7 +829,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 980,
+    growEditionSizeTo: 4980,
     layersOrder: [
       { name: "Background" },
       { name: "Keikiokalani" },
@@ -846,7 +846,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1000,
+    growEditionSizeTo: 5000,
     layersOrder: [
       { name: "Background" },
       { name: "Khadijeh" },
@@ -863,7 +863,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1020,
+    growEditionSizeTo: 5040,
     layersOrder: [
       { name: "Background" },
       { name: "Kimberly" },
@@ -880,7 +880,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1040,
+    growEditionSizeTo: 5160,
     layersOrder: [
       { name: "Background" },
       { name: "Konala" },
@@ -897,7 +897,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1060,
+    growEditionSizeTo: 5200,
     layersOrder: [
       { name: "Background" },
       { name: "Laila" },
@@ -914,7 +914,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1080,
+    growEditionSizeTo: 5280,
     layersOrder: [
       { name: "Background" },
       { name: "Lesedi" },
@@ -931,7 +931,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1100,
+    growEditionSizeTo: 5520,
     layersOrder: [
       { name: "Background" },
       { name: "Li Li" },
@@ -948,7 +948,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1120,
+    growEditionSizeTo: 5640,
     layersOrder: [
       { name: "Background" },
       { name: "Lilo" },
@@ -965,7 +965,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1140,
+    growEditionSizeTo: 5740,
     layersOrder: [
       { name: "Background" },
       { name: "Luanna" },
@@ -982,7 +982,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1160,
+    growEditionSizeTo: 5860,
     layersOrder: [
       { name: "Background" },
       { name: "Maiele" },
@@ -999,7 +999,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1180,
+    growEditionSizeTo: 5900,
     layersOrder: [
 		{name: "Background" },
       { name: "Malana" },
@@ -1016,7 +1016,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1200,
+    growEditionSizeTo: 6020,
     layersOrder: [
       { name: "Background" },
       { name: "Malo" },
@@ -1033,7 +1033,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1220,
+    growEditionSizeTo: 6100,
     layersOrder: [
       { name: "Background" },
       { name: "Maluhia" },
@@ -1050,7 +1050,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1240,
+    growEditionSizeTo: 6220,
     layersOrder: [
       { name: "Background" },
       { name: "Mandla" },
@@ -1067,7 +1067,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1260,
+    growEditionSizeTo: 6280,
     layersOrder: [
       { name: "Background" },
       { name: "Abolfazl" },
@@ -1084,7 +1084,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1280,
+    growEditionSizeTo: 6300,
     layersOrder: [
       { name: "Background" },
       { name: "Marissa" },
@@ -1101,7 +1101,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1300,
+    growEditionSizeTo: 6400,
     layersOrder: [
       { name: "Background" },
       { name: "Marjani" },
@@ -1118,7 +1118,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1320,
+    growEditionSizeTo: 6520,
     layersOrder: [
       { name: "Background" },
       { name: "Mason" },
@@ -1135,7 +1135,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1340,
+    growEditionSizeTo: 6600,
     layersOrder: [
       { name: "Background" },
       { name: "Masoumeh" },
@@ -1152,7 +1152,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1360,
+    growEditionSizeTo: 6700,
     layersOrder: [
       { name: "Background" },
       { name: "Meredith" },
@@ -1169,7 +1169,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1380,
+    growEditionSizeTo: 6780,
     layersOrder: [
       { name: "Background" },
       { name: "Michelle" },
@@ -1186,7 +1186,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1400,
+    growEditionSizeTo: 6820,
     layersOrder: [
       { name: "Background" },
       { name: "Mona" },
@@ -1203,7 +1203,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1420,
+    growEditionSizeTo: 6940,
     layersOrder: [
       { name: "Background" },
       { name: "Saman" },
@@ -1220,7 +1220,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1440,
+    growEditionSizeTo: 7020,
     layersOrder: [
       { name: "Background" },
       { name: "Nahid" },
@@ -1237,7 +1237,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1460,
+    growEditionSizeTo: 7060,
     layersOrder: [
       { name: "Background" },
       { name: "Natalie" },
@@ -1254,7 +1254,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1480,
+    growEditionSizeTo: 7160,
     layersOrder: [
       { name: "Background" },
       { name: "Nazanin" },
@@ -1271,7 +1271,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1500,
+    growEditionSizeTo: 7220,
     layersOrder: [
       { name: "Background" },
       { name: "Nazri" },
@@ -1288,7 +1288,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1520,
+    growEditionSizeTo: 7300,
     layersOrder: [
       { name: "Background" },
       { name: "Nemy" },
@@ -1305,7 +1305,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1540,
+    growEditionSizeTo: 7340,
     layersOrder: [
       { name: "Background" },
       { name: "Ngozi" },
@@ -1322,7 +1322,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1560,
+    growEditionSizeTo: 7420,
     layersOrder: [
       { name: "Background" },
       { name: "Nohealani" },
@@ -1339,7 +1339,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1580,
+    growEditionSizeTo: 7500,
     layersOrder: [
       { name: "Background" },
       { name: "Olaga" },
@@ -1356,7 +1356,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1600,
+    growEditionSizeTo: 7540,
     layersOrder: [
       { name: "Background" },
       { name: "OliOli" },
@@ -1373,7 +1373,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1620,
+    growEditionSizeTo: 7620,
     layersOrder: [
       { name: "Background" },
       { name: "Onosa'i" },
@@ -1390,7 +1390,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1640,
+    growEditionSizeTo: 7860,
     layersOrder: [
       { name: "Background" },
       { name: "Palesa" },
@@ -1407,7 +1407,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1680,
+    growEditionSizeTo: 8100,
     layersOrder: [
       { name: "Background" },
       { name: "Penina" },
@@ -1424,7 +1424,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1700,
+    growEditionSizeTo: 8180,
     layersOrder: [
       { name: "Background" },
       { name: "Salana" },
@@ -1441,7 +1441,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1720,
+    growEditionSizeTo: 8220,
     layersOrder: [
       { name: "Background" },
       { name: "Samantha" },
@@ -1458,7 +1458,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1740,
+    growEditionSizeTo: 8260,
     layersOrder: [
       { name: "Background" },
       { name: "Samira" },
@@ -1475,7 +1475,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1760,
+    growEditionSizeTo: 8300,
     layersOrder: [
       { name: "Background" },
       { name: "Samiya" },
@@ -1492,7 +1492,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1780,
+    growEditionSizeTo: 8380,
     layersOrder: [
       { name: "Background" },
       { name: "Serika" },
@@ -1509,7 +1509,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1800,
+    growEditionSizeTo: 8460,
     layersOrder: [
       { name: "Background" },
       { name: "Sethe" },
@@ -1526,7 +1526,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1820,
+    growEditionSizeTo: 8500,
     layersOrder: [
       { name: "Background" },
       { name: "Shahrazad" },
@@ -1543,7 +1543,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1840,
+    growEditionSizeTo: 8620,
     layersOrder: [
       { name: "Background" },
       { name: "Shaurya" },
@@ -1560,7 +1560,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1860,
+    growEditionSizeTo: 8680,
     layersOrder: [
       { name: "Background" },
       { name: "Sielu" },
@@ -1577,7 +1577,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1880,
+    growEditionSizeTo: 8720,
     layersOrder: [
       { name: "Background" },
       { name: "Sora" },
@@ -1594,7 +1594,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1900,
+    growEditionSizeTo: 8960,
     layersOrder: [
       { name: "Background" },
       { name: "Soraya" },
@@ -1611,7 +1611,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1920,
+    growEditionSizeTo: 9000,
     layersOrder: [
       { name: "Background" },
       { name: "Sudarshini" },
@@ -1628,7 +1628,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1940,
+    growEditionSizeTo: 9120,
     layersOrder: [
       { name: "Background" },
       { name: "Pedram" },
@@ -1645,7 +1645,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1960,
+    growEditionSizeTo: 9200,
     layersOrder: [
       { name: "Background" },
       { name: "Sumiko" },
@@ -1662,7 +1662,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 1980,
+    growEditionSizeTo: 9240,
     layersOrder: [
       { name: "Background" },
       { name: "Suravi" },
@@ -1679,7 +1679,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 2000,
+    growEditionSizeTo: 9320,
     layersOrder: [
       { name: "Background" },
       { name: "Trang" },
@@ -1696,7 +1696,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 2020,
+    growEditionSizeTo: 9660,
     layersOrder: [
       { name: "Background" },
       { name: "Troy" },
@@ -1713,7 +1713,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 2040,
+    growEditionSizeTo: 9720,
     layersOrder: [
       { name: "Background" },
       { name: "Will" },
@@ -1730,7 +1730,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 2060,
+    growEditionSizeTo: 9840,
     layersOrder: [
       { name: "Background" },
       { name: "Hafez" },
@@ -1747,7 +1747,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 2080,
+    growEditionSizeTo: 9880,
     layersOrder: [
       { name: "Background" },
       { name: "Yasmin" },
@@ -1764,7 +1764,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 2100,
+    growEditionSizeTo: 9960,
     layersOrder: [
       { name: "Background" },
       { name: "Zarin" },
@@ -1781,7 +1781,7 @@ const layerConfigurations = [
     ],
   },
 	{
-    growEditionSizeTo: 2120,
+    growEditionSizeTo: 10000,
     layersOrder: [
       { name: "Background" },
       { name: "Zizi" },
@@ -1819,7 +1819,7 @@ const extraMetadata = {
 // ** REQUIRED **
 const AUTH = process.env.NFTPORT_API_KEY; // Set this in the .env file to prevent exposing your API key when pushing to Github
 const LIMIT = 10; // Your API key rate limit
-const CHAIN = 'goerli'; // only goerli, polygon, or ethereum
+const CHAIN = 'goerli'; // only rinkeby, goerli, polygon, or ethereum
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'Unknown Federation';
@@ -1832,10 +1832,10 @@ const MINT_PRICE = 0.001; // Minting price per NFT. Goerli = ETH, Ethereum = ETH
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = "2022-11-20T11:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = "2022-12-20T11:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PRESALE_MINT_START_DATE = "2022-10-18T11:30:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
+const PRESALE_MINT_START_DATE = "2022-11-02T11:30:48+00:00"; // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 250; // 000Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0x4F9206707B79B3caE72E6D5465885888000C1075"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
@@ -1903,7 +1903,6 @@ const pixelFormat = {
 
 const background = {
   generate: true,
-
   brightness: "80%",
   static: false,
   default: "#000000",
