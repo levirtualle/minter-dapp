@@ -1,4 +1,4 @@
-const contractAddress = ""; // Replace with your own contract address
+const contractAddress = "0xA96A377A55Fb768E2A1D96E5f0a266B71acc14D8"; // Replace with your own contract address
 const chain = 'ethereum'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to Unknown Federation NFT Project!!";
