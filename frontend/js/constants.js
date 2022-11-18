@@ -3,7 +3,7 @@ const chain = 'ethereum'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to Unknown Federation NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Unknown Federation NFT Project is a NFT collection of cadets and officers that is inspired by famous sci-fi tv series like Star Trek and The Orville. The owner of this NFT collection will get lifetime access of a FREE mutiple choice, multiple ending interactive novel that will be develop if we manage to sold out this collection. The characters that you own will be the star of that novel. Owners will also get free products from Redbubble (Terms and conditions applies) and giveaways such as Airdrop NFTs that will be conducted in our Discord server.';
+const welcome_p = 'Unknown Federation NFT Project is a NFT collection of cadets and officers that is inspired by famous sci-fi tv series like Star Trek and The Orville. The owner of this NFT collection will get lifetime access of a FREE mutiple choice, multiple ending animated 3D interactive novel that will be develop if we manage to sold out this collection. The characters that you own will be the star of that novel. Owners will also get free products from Redbubble (Terms and conditions applies) and giveaways such as Airdrop NFTs that will be conducted in our Discord server.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
