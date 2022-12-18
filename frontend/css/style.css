@@ -129,9 +129,10 @@ li {
     margin: auto;
 }
 .contact-us{    
-    width:100%;
+    width:1440px;
     display:flex;
     justify-content: center;
+    margin: auto;
 }
 
 .discord-btn{
