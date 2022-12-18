@@ -92,6 +92,7 @@ li {
 .site-title{
     display: flex;
     justify-content: center;
+    align-items: center;
     padding-top: 9rem;
 }
 
@@ -116,8 +117,9 @@ li {
 
 .site-devider{
     width: 100%;
-    display:flex;
+    display: flex;
     justify-content: center;
+    align-items: center;
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
