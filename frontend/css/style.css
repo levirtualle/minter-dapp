@@ -134,10 +134,11 @@ li {
 }
 
 .discord-btn{
-    width: 100%;
+    width: 1440px;
     display:flex;
     justify-content: center;
     padding-top: 1rem;
+    margin: auto;
 }
 .discord-item1{
     width:700px;
