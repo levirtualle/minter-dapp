@@ -89,20 +89,24 @@ li {
 }
 
 .site-title{
-    width: 100%;
+    width: 1440px;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 9rem;
+    padding-top: 20px;
+    margin: auto;
 }
 
 .site-content{
-    width:100%;
+    width:1440px;
     padding-top: 20px;
+    align-content: center;
+    margin: auto;
+    
 }
 
 .nft-description{
-    width:1000px;
+    width:960px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
@@ -136,17 +140,13 @@ li {
     padding-top: 1rem;
 }
 .discord-item1{
-    width:40%;
+    width:700px;
     float: left;
-    padding-left: 10rem;
-    padding-bottom: 2rem;
 }
 
 .discord-item2{
-    width:40%;
+    width:700px;
     float: right;
-    padding-right: 8rem;
-    padding-bottom: 2rem;
 }
 
 
