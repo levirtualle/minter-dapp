@@ -120,12 +120,13 @@ li {
 }
 
 .site-devider{
-    width: 100%;
+    width: 1440px;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
 }
 .contact-us{    
     width:100%;
