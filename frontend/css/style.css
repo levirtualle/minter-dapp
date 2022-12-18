@@ -225,7 +225,7 @@ li {
 /* CARD */
 
 .card {
-  position: relative;
+  position: fixed;
     z-index: 90;
   background-color: var(--bg-color);
   border-radius: 5px;
