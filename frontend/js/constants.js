@@ -2,7 +2,7 @@ const contractAddress = "0xA96A377A55Fb768E2A1D96E5f0a266B71acc14D8"; // Replace
 const chain = 'ethereum'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "";
-const welcome_h2 = "Connect Your Wallet to Start Minting";
+const welcome_h2 = "";
 const welcome_p = '';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";

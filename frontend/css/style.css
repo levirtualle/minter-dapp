@@ -89,6 +89,7 @@ li {
 }
 
 .site-title{
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -101,7 +102,7 @@ li {
 }
 
 .nft-description{
-    width:59%;
+    width:1000px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
@@ -109,7 +110,7 @@ li {
     float: left;
 }
 .nft-preview{
-    width:37%;
+    width:420px;
     float:right;
     padding-right: 20px;
 }
