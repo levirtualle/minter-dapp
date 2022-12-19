@@ -63,8 +63,7 @@ header .container {
 }
 
 .menu {
-    display: flex;
-    gap: 1rem;
+    display: block;    
     align-items: center;
 }
 
